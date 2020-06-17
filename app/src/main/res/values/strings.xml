@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Survivor</string>
+    <string name="select_the_type_of_survival">Select the type of survival:</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="good_luck_you_can_survive">Good luck you can survive</string>
+    <string name="Win">You can start celebrating your second birthday. I (mr.survivor) congratulate you!!!</string>
+    <string name="Finish">Quit application</string>
+    <string name="Long_survival">Start Long survival</string>
+    <string name="Emergency_survival">Start Emergency survival</string>
+    <string name="Nothing"></string>
+    <string name="WILS">Long survival is a type of survival in which you have more time to survive and you are interested in resources for survival and a place of salvation. Example: forest survival, epidemic,flood.</string>
+    <string name="WIES">Emergency survival is a type of survival in which you do not have much time to survive and you are not interested in resources just the right behavior to increase the chances of survival. Examples: plane crash, terrorists takeover, shipwreck.</string>
+    <string name="Spinner_Emergency">EMERGENCY SURVIVAL SCENARIOS:</string>
+    <string name="Spinner_Long">LONG SURVIVAL SCENARIOS:</string>
+    <string name="mr_survivor_hello">Hi! I am your assistant mr.survivor. I will help you survive in the most difficult situations. Good luck to you!!!</string>
+    <string name="PANIC">PLEASE REMEMBER THE MAIN THING DO NOT PANIC!!!</string>
+    <string name="button_start">START SURVIVAL</string>
+    <string name="button_finish">I SURVIVED</string>
+    <string name="Forest_survival_scenario_info">1)Do not panic : if you get lost. Panic is much more dangerous than anything else, because it overshadows the mind, which is the only best, most useful and universal means of salvation. At the moment when you realize that you are lost, stop. Take a deep breath and keep calm.
+2)Stay in one place: This not only increases your chances of being found, but also saves the energy of your body due to the smaller consumption of water and food that you need to maintain it. Squat down and stay in place. There is a possibility that you have already started to search, especially if you have informed someone about your plans. In addition, if you are with someone else, do not separate. Your strength in quantity.
+If it is sunny, try searching in the shadows - this will reduce the risk of dehydration and burns. Do not be tempted to take off your clothes, because, on the contrary, it will increase this risk.
+3)Make a fire: Build a place for a fire, throwing enough coal to be warm for several hours, and make sure that you have a lot of firewood. Make a fire before you need it, even if it is warm in the forest. It is better to make a fire in a calm, not panic state, when the sun sets. Not to mention the fact that you will feel in comfort and safety, being near the fire, which determines your location.
+According to the excellent practical method, you need to collect wood, until you are sure that you have enough for the night. Then collect three more identical heaps of wood, which may be enough for the night.
+You must get the brushwood from the undergrowth under the forest canopy. You can also use bark or dry litter. If your fire is not warm enough, throw fresh branches, bushes or woody bitches into it so that the smoke that is generated serves as a fire signal.
+The best campfire wood is dead. You can pull it away from a healthy tree. Regardless of what type of forest you are in, there is dry brushwood everywhere.
+Remember: a small fire is easier to maintain than a large one, if only because it requires less fuel. When you have enough glowing coals, keep the fire at a moderate size, so you will not need to spend time searching for fuel.
+Do not make fire in dangerous places. Your fire should be far from flammable trees and shrubs, preferably at all in a clearing. Be careful with fire. When you want to throw fuel into it, do not overdo it. Consider the weather and other factors, and also remember that to escape from a forest fire is much more difficult than getting out of the forest when you get lost!
+4)Mark your location: Whistle, scream, sing or knock stones, creating noise. If possible, highlight your location so that it can be seen from above. If you are in a mountain meadow, place three piles of dark leaves and triangle-shaped branches. In the sandy terrain, make a triangle on the sand. Such a triangle in the wild is considered a standard distress signal.
+You can use a fire to send a distress call. A universal distress signal is a straight line of three fires or three fires forming a triangle.
+You can also give three whistles, or make three shots in the air with a gun, if you have one, or give a signal three times with a mirror, catching the sun rays.
+5)Scout your site: Although you cannot go too far, you should explore the surrounding areas to find something useful. You may find things left by someone, be it a tin can or a pocket lighter, which can be useful for signaling. Make sure that you can always find your way to your “zero point” while you are looking for water, shelter or the way home.
+6)Find a good source of water: In a situation of survival, you can stretch for three days without water, but by the end of the second day you will lose shape, so you need to quickly find a reservoir. The best source of water is a spring, but the chances of finding it are small. Also pay attention to the birds, because they often fly over fresh waters. Drink the rest of the water, but in portions, but not all at once.
+Running creek is also an excellent option. The flow of water reduces sediment. Keep in mind that streamed water can be dangerous due to the presence of pathogenic bacteria. But when there is a question of life or death, the risk of getting sick should be relegated to the background, because then they will cure you.
+If you are desperate, and there is dew on the grass, gather it in clothes and then suck the moisture out of the fabric.
+You can also search for water in the crevices of the rock.
+7)Find or make cover:  Without a proper shelter, you will be unprotected from atmospheric conditions, being exposed to hypothermia or heatstroke, depending on the weather. If you are not dressed according to the conditions, you need to find shelter. Fortunately, there are plenty of tools and resources in the forest to build a fire and build a shelter (for warmth, safety and signals). Below is a list of things you can use:
+Look for a fallen or rickety tree. You can build an A-shaped shelter by laying branches on both sides of a fallen tree, and then cover it with shrubs, frond, leaves or other plants.
+Use shrubs and fresh branches with leaves to protect the shelter from water, wind, and snow, as well as shading. Lock yourself in your shelter from all possible sides.
+The cave can be a great shelter, but you need to check whether it is not occupied by bears, large cats, snakes or other animals. Undoubtedly, they know that the caves are a great refuge, as they are in constant search, unlike you.
+If it snows, make snow shelter. Snow is an excellent material in which you will be comfortable.
+Make sure your accommodation is not too hidden, otherwise you will spend all your time in it and no one will find you.
+Do not waste all your strength on building the perfect cover, otherwise you will exhaust yourself.</string>
+    <string name="Forest_survival_scenario_eat">In the case of the origin of proteins and fat, it can be made for water in the form of a young child, on the basis of the roots of the tree. Over feeding nutritious kor be faithful, when the trees are filled with juices. It is also suitable for settling in summer and autumn. This blessing still calls for a copy, which can be installed by a computer, and the next one: Then, by any other subject, you need to remove the upper bark.
+Oddly enough, the easiest food to be found in the forest is under the feet of a tourist - these are ordinary earthworms. To get them from under the top layer of soil, it is enough to use a regular stick. They need to be washed in water, so that the whole digested earth comes out of the worms, then consumed raw or boiled. Organic protein food is ready.
+
+Another type of food are frogs. If you remove the skin from them and fry, you get an analogue of chicken meat. Grasshoppers, lizards, non-venomous snakes are also excellent food. You can also get mice and other small rodents. Make it harder than worms and frogs, but possible. If you managed to find a reservoir in the forest, water lilies can grow there. This is a great success, because the water lily contains starch in its rhizome, protein and sugar - and this is almost the usual bread for everyone. For eating, you need to grind the plant, dry and grind into flour. After that, it can be made into soup-soup or used for baking. In addition to the water lily, you can use crushed acorns, rhizome of rhiza (similar to reeds), as well as dandelion roots as flour.
+First, they also need to be dried, soaked twice and dried again, and then grind into flour, from which you will get something like porridge. Rhizo rhizome can not soak, but simply cut and dried, then cook. If the rogoza pieces are fried, you get a drink, vaguely reminiscent of coffee. You can find mushrooms. It can be tree mushrooms growing on trunks, or fallen trees, oyster mushrooms. It is easy to notice them due to the lack of vegetation. Tree fungus, - chaga, besides, has strong therapeutic properties, high biological activity. Winter shade grows throughout the winter, with a bright orange cap it is easy to see in the snow. You can find it on aspen, winter mushrooms grow in groups. In addition to winter garbage, in winter also false garlic grows, it is also suitable for food.
+    </string>
+    <string name="Forest_survival_scenario_navigation">1) Definition of the cardinal points of the tree bark:
+
+The bark of the trees is usually rougher and darker on the north side. In particular, it is clearly visible on such trees as: birch, pine, larch, aspen
+
+Caution! In order to more accurately determine the direction of the world, use several trees.
+
+After the rain has passed the pine trunks are usually darker on the north side (turn black on the north side). This is due to the fact that the pine crust has a secondary crust that grows faster on the north side.
+2) Wood fungi most often appear on the north side of the tree, especially in the dry season.
+
+3) Orientation on the anthill:
+
+Almost always, ants arrange their anthills on the south side of the tree. In addition, on the south side, the ant hills are more gentle
+
+4) Orientation with animals:
+
+Migratory birds fly north in the spring and south in the autumn.
+
+5) Orientation on the mountain slopes:
+
+The southern slopes are usually drier than the northern ones, less grass (sod), more susceptible to destruction
+
+6) Orientation by stars:
+This is a very effective type of orientation. The main thing is to find the northern star in the sky (it is not as bright as many people think), it is easy to find it if you know what the constellation of the big bear looks like.
+We find seven stars of the Big Dipper constellation, which resembles a bucket with a handle. Then mentally connect two stars with a straight line that are on the edge of the bucket. After that, continue the line to the extreme star on the “handle” of the Ursa Minor constellation. This star will be polar (always pointing strictly north)</string>
+    <string name="Desert_survival_scenario_info">1) Try to move around at night: In the event of an emergency in the desert, it is better not to move in the daytime. In the cool night you can go further and avoid the danger of heat stroke. In hot climates, such a simple tactic will allow you to save up to three liters of water per day.
+2) In the daytime you are in the shelter:  If you do not have a shaded car, choose a place that is less sunshine during the day, stretch the ropes between two tall objects and throw a durable life-saving blanket over them. Put a few light branches on top of the blanket and throw another rescue blanket on them (or a light Mylar film). The layer of air between the two blankets will play an insulating role, and your shelter will be cooler.
+Create a shelter in the evening or at night. If you make it in the afternoon, hot air will be in it.
+You can also hide under the overhanging cliff or in a cave, however, approach this place carefully, as animals can hide there.
+3) Give distress signals: Make a fire - this is a great way to call for help, because during the day you can see smoke and fire at night. When traveling, use a signal mirror to reflect the light to them in the direction of flying aircraft and passing cars. [8]
+If you plan to stay in one place until help arrives, put the letters SOS or another message that can be read from above on the ground of stones or other objects.
+4)Decide whether to stay in place:  If you have an adequate supply of water and someone knows where you went, it is best to stay in one place while waiting for help. When traveling, you get tired and run out of water much faster, unless you find it on the way. If you have scarce water, you will have to look for it. Without water, you can not last longer than a couple of days.
+5)Beware of dangerous animals:  Most mammals and reptiles themselves will stay away from you, especially if they are alone. Adhere to the same line of conduct and be careful not to accidentally collide with any animal. If possible, learn in advance about the wild fauna of the region to be ready for possible meetings with its representatives.
+Before you put your hand in any secluded place (for example, under a pile of stones), be sure to poke it with a stick. Scorpions, spiders or snakes can hide in such places.
+In areas where killer bees live, stay away from bee hives.
+6)Bypassing spiky plants: Do not touch the cacti and keep in mind that some types of cacti strew the ground around themselves with spikes and seeds. Although it is not necessary, it is better to bypass the areas where cacti grow. Carelessness can lead to cuts and infections.
+</string>
+    <string name="Desert_survival_scenario_eat">
+        In the desert it is difficult to find food. But it still stands in second place in its value compared to water. And you can do without it for several days without any consequences for health. Distribute food from the start. Do not eat anything for the first 24 hours and do not eat until you have no water.
+   1) Animals are rarely found in the desert. Rats and lizards can be found at water sources, and they can make up your only food.  Animals can be found in the desert, but it is difficult to approach them. The most common animals are rodents (rats), rabbits, jackals, snakes, and lizards, which can usually be found near shrubs or water. On the rocks and in the bushes look for sand snails.
+   2) In the desert you can meet some birds. Try kissing the back of your hand, making a suction sound to attract them. On some lakes in the desert sand grouse, bustards, pelicans and even gulls were seen. Use traps or a hook and try to catch them well.
+ 3) Usually, where there is water, there are plants. Many desert plants look dry and unappetizing. Look for a soft part that is edible. Try all the soft parts growing on the surface of the earth - flowers, fruits, seeds, young shoots and bark. At some times of the year, grass seed or pods can be found. These pods grow on acacia trees, which are often prickly and look like a mosquito tree or cat claw, growing in the southwestern United States. There is a prickly pear (a kind of cactus), the birthplace of which is North and South America, it is often found in North Africa, in the Middle East and in the Australian deserts.
+ 4) All grass is edible, but some of its species growing in the Sahara or Gobi are tasteless and not nutritious. Try any plant that you find, it is not deadly. Dates can be found in northern Africa, South-West Asia and parts of India and China.</string>
+    <string name="Desert_survival_scenario_navigation">1)In the flat desert area and in the semi-desert, the north-south line is determined in two directions: sunrise and west of the sun. To do this, point A is clogged on the ground with a stake, and after rising 10 meters in the direction of its center, point C is noted. At sunset, point B is marked at the same distance in the direction of its center. Point O represents the midpoint of the BC line. The north-south line will be the direction of the arterial pressure passing through point O. Having thus determined the horizon sides at this point, you can check them by the readings of the compass (the compass is a device for measuring the angles between the magnetic meridian and the direction to any object (azimuths).
+Faster and easier in the desert to determine the side of the horizon at night on the Polar Star. The direction to the Polar Star coincides with the north-south direction if the line connecting Polaris with the fourth star of the constellation Cassiopeia and the second star from the end in the tail of the Big Dipper constellation is approximately perpendicular to the horizon line. When observing in southern latitudes, it should be taken into account that the Polar Star deviates from the meridian a maximum of 1 ° 30 ′.
+2)The wind easily destroys soft rocks: limestone, sandstone, forests, etc. Under its influence, parallel grooves often form in such rocks, separated by sharp ridges. For example, on the upper part of the limestone plateau of the Libyan Desert there are many furrows up to 1 m deep in the direction of the constant northern wind.
+Wind also polishes rocks and stones. The weathered side of the stone is always clearly visible.
+On the Peninsula (Caspian Sea), which is a semi-desert with poor vegetation, the so-called cellular physical weathering prevails. The rocks subject to it resemble honeycombs. Picked up by a rapid gust of wind, the grains of sand, while in rotational motion, hit the rocks and drill holes in soft rocks. Knowing the direction of the wind, in this and similar cases you can also navigate.
+3)Sandy surface under the influence of the prevailing wind is a kind of frozen in one direction waves. This feature is used for orienteering in the desert.
+The sand, driven by the wind, falls on the already settled. So there are dunes in the desert. The side of the dune facing the wind is always sloping. The leeward side is steep, almost sheer, even sometimes with a small visor, which eventually falls down or is blown away and blown down or blown away and goes further. According to the sand dunes, the traveler of the desert can always determine the direction he needs. Thus, along the Amu Darya valley, the sand sands of the Priamudarya sand dunes stretch for tens and hundreds of kilometers.
+4)In an open area with sandy soil, the wind forms sandy ripples in the form of parallel rollers perpendicular to the direction of the wind. Often such ripples are formed on the windward, compacted slope of the dunes.
+Good pointers to the horizon are small sand accumulations created by the wind near distinguishable obstacles (surface irregularities, blocks, stones, bushes, etc.). On a sandy tubercle, for example, a lonely bush grows. On the one hand, it is easy to notice a triangular sediment in the form of a sand spit, extended by a sharp edge in the direction of the wind.
+Similarly, one can determine the countries of the world in ridged sands, where the rows are usually located in the direction of the prevailing wind.</string>
+    <string name="Open_ocean_survival_scenario_info">To get to land, you need a clear head and self-reliance, but they are just the most difficult to maintain. Help the rules, which adhere to single travelers:
+1)Install and follow the regime, at least some. If you are not alone, assign duty and assign duties. The need to get up on the watch and do your part of the work will help you get together and not fall into despair.
+2)Keep a diary or journal, if you can write. It helps streamline thoughts and plan plans.
+3)Work Catch fish, collect algae, look out for the ground, invent new ways to use old items. Do everything not to have time to regret your situation.
+4)Try to move as far as possible. Swim if the weather permits and you are sure that you can return to the raft or boat.
+</string>
+    <string name="Open_ocean_survival_scenario_eat">Water:
+The most obvious, but unreliable source of fresh water is precipitation. Try to prepare any container where you will collect rainwater: cans, shoes, plastic passing by, dense leaves, bags, bags.
+Another way to find a drink is to make a distiller. It needs two containers (large and small), as well as waterproof material: a piece of polyethylene, a bag. In a large container type salt water, put in it an empty small container. Pull the bag or other material onto the edges of a large container and place a small load in the center. The water will evaporate and settle on the film. The drops will roll to the center where the load lies, and fall into an empty container. So you get some fresh water.
+It is possible that condensate forms on your boat by itself. Collect it, even if you have to lick the boat.
+Do not forget that algae and fish also contain fresh water, so if you can catch food, you will get some of the liquid with food.
+Food:
+Oddly enough, with food in the ocean, everything is more or less normal. Pan Lien, a Chinese sailor, ended up on the high seas after a battle during World War II and lived on a life raft for 133 days. He was even able to make a supply of food, because he constantly earned his food by making fishing rods from scrap materials.
+Try to invent what to make fishing tackle. Any ropes, threads, pulled out of clothes, jewelry, pins, covers from cans will fit. For the first fishing bait can be a thread, then it will turn out to use the remains of already caught fish.
+To collect them, you need to take any piece of cloth (from clothes). The taste, of course, so-so, but for survival is not necessary to choose. But the algae help to prevent the development of scurvy.
+In general, you need to eat everything that came across (if only it looks fresh and non-toxic): turtles, shrimps, birds. Birds in desert areas are sometimes not afraid of people, and they can be caught with the help of bait and rope loops.
+It is necessary to fish the fish as soon as you are at sea, even if you are on a life raft and you have a proper three-day ration. No one can say for sure when the rescuers will find you and for how long they will have to stretch the ration. Act immediately.</string>
+    <string name="Open_ocean_survival_scenario_navigation">In fact, if you are shipwrecked, it is better not to go anywhere and, if possible, stay in place, although it is difficult in the ocean. Rescue operations will take place primarily in the area of ​​the accident.
+If you are aware of something in navigation, it would be good to go back and return to the ground the same way you went.
+When there are no navigational instruments at hand, and you do not understand anything in the starry sky and do not know how to keep the course, you can find the land by chance or by indirect signs: clouds gather over land, during thunderstorms lightning strikes there, birds approach . In some areas they can be seen quite far in the open sea, but on land, of course, there are many more.
+The most important landmark in the night sky is the pole star. She is the only one who does not “travel” across the sky, while the other stars and constellations change their position in the sky.
+The North Star always points north, deviating only a half-degree during the night. This, of course, is essential for accurate navigation, but for a lost tourist it is not so important.
+Before you find the Polar Star, you need to find the two most famous constellations in the sky - the Great and Little Dipper. In Ursa Major, we need the two rightmost stars, which form a “wall” of the bucket, as it were. We draw a straight line from the top star, equal to four distances from the two “extreme” stars of the Big Dipper and ... see the Polar Star perched in the handle of the Little Dipper bucket.</string>
+    <string name="Choose">CHOOSE</string>
+    <string name="Terrorists_takeover_scenario">Do not try to escape, escape independently - the terrorists may react aggressively. Try to calm down and wait for release.
+1) Tune in for a long wait. Professionals take time to set you free. They do not waste a minute, but they must foresee everything.
+2) Try to mentally escape from what is happening: remember the contents of books, feature films, cartoons, solve problems in your mind. If you believe in God, pray.
+3) Try not to annoy the terrorists: do not shout, do not cry, do not be outraged. Do not demand immediate release either - this is impossible.
+4) Do not enter into disputes with terrorists, fulfill all their requirements. Remember: this is a necessary measure, you save yourself and others.
+5) Remember that you may have to spend a long time without water and food - save your strength.
+6) If it is stuffy in the room, try to move less in order to save oxygen more economically.
+7) If there is enough air, and it is forbidden to move around the building, do simple physical exercises - strain and relax the muscles of the arms, legs, back. Do not make sudden movements.
+8) Negotiations with terrorists do not always end successfully. Sometimes your release requires an assault. Remember: for special forces, the main thing is the life of the hostages, not their own life. They will do everything possible to free people without loss.
+1. After the start of the assault, try to stay away from the terrorists.
+2. If possible, hide away from windows and doorways.
+3. When storming, light-noise grenades can be used: a bright light hits the eyes, the sound hits the ears or there is a strong smell of smoke. In this case, fall to the floor, close your eyes (by no means three of them), cover your head with your hands and wait for the special forces to take you out of the building.
+9) After release
+Do not rush to go home immediately. You must first contact the staff of special services and doctors. Doctors will help you out of shock and, if necessary, on their advice, you will receive the necessary treatment. Remember: after you are rescued, you need medical help.</string>
+    <string name="Shipwreck_scenario">1) If time permits, wear as much clothing as possible. Do not be afraid that a multi-layered uniform will drag you to the bottom - a life jacket will hold you on the surface of the water surface. Caught in the water, one of the main threats to life is hypothermia. Additional clothing will help save more heat, which means it will increase your chances of being saved before you get numb.
+2) Wear a life jacket only when you find yourself on the deck - it will not help you in the confined space of the cabin, but will only aggravate the situation, since it will not allow you to maneuver and move in a flooded room.
+3) Stay as long as possible on the ship - do not jump overboard ahead of time. Remember - the more time you stay dry, the less likely you are to freeze to death. In any case, the command “leave the ship” is voiced by the captain, and until this point, stay away from the water.
+4) If it is time to leave the ship, remember that you can jump into the water from a height not exceeding 5 meters - otherwise, a collision with the sea surface threatens to stun and loss of consciousness. You need to jump "soldier", straightening the body and legs in one straight vertical line. At the same time with one hand you need to press your mouth and nose, the other - tightly pressed to the body.
+        5) Once in the water, you need as soon as possible to sail away from the sinking ship,     preferably at a distance of at least 50 m.
+ 6) Once in the water swim only to the goal: a boat, a raft, wreckage, which you can climb. If there is nothing useful nearby, and the vest does not allow you to drown, take the baby’s posture: bend your knees and press to your body with your arms wrapped around them - in this position you will save more heat.
+7) No need to try to swim to the shore, even if it looms on the horizon. The earth begins to be seen at a distance of 7 km - it is almost impossible for an unprepared person under stress to swim such a distance. When a shipwreck can not be removed from the crash site, and the survivors should gather in one group - this will increase the chances of finding you during the rescue operation.
+8) Keep in mind - seawater can not be drunk in any case. It not only will not save from thirst, but will cause even greater dehydration of the body, not to mention the detrimental effect on the stomach and kidneys. In case of anything, keep in mind the idea that without water a person can last for about a week, and without food for more than a month. During this time, you should already save.</string>
+    <string name="Building_fire_scenario">1)Report the fire to the fire brigade on the phone.
+2)If there is no danger of electric shock, extinguish the fire with water or use a thick (wet cloth).
+3)Disconnect power if there is a danger of electric shock.
+4)Flammable liquids - water that cannot be transparent, dense cloth moistened with water.
+5)If you do not open the vents and windows.
+6)If you do not succeed in extinguishing the fire with their forces, you come out of the apartment, close the door behind you, and immediately report the elderly neighbors and tenants living in the apartments above and below.
+7)Meet the firefighters and escort them to the site of the fire.
+8)At high temperatures, strong smoke, you must crawl around, since the temperature at the floor is much lower and more oxygen.
+9)If it is impossible to evacuate from the apartment through the landing, when the evacuation routes are cut off, you need to go to the balcony, closing the door behind you, and call for help from passersby.</string>
+    <string name="Plane_crash_scenario">1) Fasten your seat belt:
+2) When depressurizing the case, you have less than 15 seconds before losing consciousness. Remember the important rule: before you help a neighbor, put on a mask yourself. Even if this neighbor is your child.
+3) Group:
+Get rid of blunt and sharp objects in your pockets. For example, pens. Take off your headphones.
+Rest in the seat. Move your legs forward, but do not hide them under the front seat. Then place your hands on the back of the front seat and press your head against them.
+Bend and clasp your legs with your hands. Keep your arms down and elbows your hips. Head press to the feet. Fixed posture, when the arms, legs and head are maximally pressed against each other, reduces the likelihood of serious injury. If you have a pillow or soft things with you, put them on your knees. This will help soften the blow and protect the head.
+4) Consider the evacuation scheme:
+Look around and find emergency exits. Count the number of rows before them and remember the location. Pay attention not only to the nearest exit: it can be blocked.
+Share information with your neighbor.
+5) Leave the board:
+After the crash, your main task is to evacuate quickly. First of all, unfasten the belt and immediately head towards the emergency exit. If inside is poor visibility, cover your face with a cloth. Move around the cabin, holding the seat: in the event of a crush, you will fall on them, and not the passengers under your feet. Do not take bags with you: they obstruct the passage. The maximum that you may need is a passport and warm clothes, if they are already at hand. After you leave the board, move away from the crash site at least 200 meters. At first, keep your distance, but carefully watch the situation.
+</string>
+    <string-array name="Type_of_survive">
+        <item>Emergency survival</item>
+        <item>Long survival</item>
+    </string-array>
+    <string-array name="Long_scenarios">
+        <item>Forest survival</item>
+        <item>Desert survival</item>
+        <item>Open ocean survival</item>
+    </string-array>
+    <string-array name="emergency_scenarios">
+        <item>Terrorists takeover</item>
+        <item>Shipwreck</item>
+        <item>Plane crash</item>
+        <item>Building fire</item>
+    </string-array>
+    <string-array name="Survivor_needs">
+        <item>Food and water</item>
+        <item>Orientation</item>
+        <item>Signal</item>
+        <item>General advice</item>
+    </string-array>
+</resources>
