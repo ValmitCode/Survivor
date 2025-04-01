@@ -1,0 +1,1 @@
+This is my old final project on the Samsung IT School course (free android programming courses with selection in countries of the 2nd world). This app gave you survival tips depending on the situation you found yourself in. For some reason I couldn't come up with anything better back then
